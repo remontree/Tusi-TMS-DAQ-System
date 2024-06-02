@@ -10,6 +10,3 @@ It can recieve pressure data and thrust data from sensors connected to arduino u
 - click the ignite button to ignite the engine.
 <br>
 <img src="./DAQ System/img/test1.jpg">
-<br>
-<br>
-<img src="./DAQ System/img/test.gif" style="width: 100%">
